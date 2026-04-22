@@ -1,0 +1,11 @@
+langkah yg harus dilakukan
+
+git checkout feature-xyz
+git fetch origin
+git rebase origin/master
+
+# kalau conflict
+
+git add .
+git rebase --continue
+git push --force

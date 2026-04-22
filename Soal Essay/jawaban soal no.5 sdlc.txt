@@ -1,0 +1,18 @@
+WATERFALL
+
+Waterfall adalah model yang bersifat linear dan berurutan. Proses pengembangan dilakukan tahap demi tahap, mulai dari analisis kebutuhan, desain, implementasi, pengujian, hingga deployment. Setiap tahap harus diselesaikan terlebih dahulu sebelum melanjutkan ke tahap berikutnya. Model ini cocok digunakan ketika kebutuhan sistem sudah jelas sejak awal dan jarang mengalami perubahan.
+
+Kelebihan Waterfall adalah prosesnya terstruktur, mudah dipahami, dan memiliki dokumentasi yang lengkap. Hal ini memudahkan pengelolaan proyek, terutama untuk proyek yang berskala kecil atau memiliki kebutuhan yang stabil. 
+
+kelemahannya adalah kurang fleksibel terhadap perubahan. Jika terjadi perubahan di tengah proses, akan sulit dan mahal untuk menyesuaikannya. Selain itu, feedback dari pengguna biasanya baru didapat di akhir, sehingga risiko ketidaksesuaian dengan kebutuhan cukup tinggi.
+
+
+====================================
+
+AGILE
+
+Agile adalah model yang bersifat iteratif dan fleksibel. Pengembangan dilakukan dalam siklus pendek yang disebut sprint, di mana setiap sprint menghasilkan bagian kecil dari produk yang bisa langsung diuji dan dievaluasi. Agile memungkinkan perubahan dilakukan kapan saja sesuai kebutuhan dan feedback dari pengguna.
+
+Kelebihan Agile adalah fleksibel terhadap perubahan, memungkinkan feedback yang cepat, dan dapat memberikan nilai bisnis lebih awal karena fitur dikembangkan secara bertahap. 
+
+kelemahannya adalah membutuhkan komunikasi tim yang intensif, sulit diprediksi dari sisi waktu dan biaya jika tidak dikelola dengan baik, serta dokumentasi yang biasanya lebih sedikit dibandingkan Waterfall.
